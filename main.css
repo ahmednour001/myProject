@@ -52,13 +52,13 @@
     background-size: cover;
 }
 .slider .carousel-one{
-    background-image: url("../img/3.jpg");
+    background-image: url("3.jpg");
 }
 .slider .carousel-two{
-    background-image: url("../img/4.jpg");
+    background-image: url("4.jpg");
 }
 .slider .carousel-three{
-    background-image: url("../img/6.jpg");
+    background-image: url("6.jpg");
 }
   
 .slider .carousel-inner .overlay {
@@ -312,7 +312,7 @@
     -o-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-     background-image: url("../img/3.jpg");
+     background-image: url("3.jpg");
     position:relative;
     height:520px;
 }
